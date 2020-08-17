@@ -1,0 +1,2 @@
+# lifeminer-website
+lifeminer website
